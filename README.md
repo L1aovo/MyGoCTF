@@ -9,10 +9,15 @@
 3. 数据库：Sqlite3 （轻量）
 4. 中间件：Nginx（反代 --> 前后端分离）
 
-## 实习功能
+## 实现功能
 1. 登陆注册登出
 2. 题目添加/展示
 3. 提交flag
+
+## 构建
+1. 安装go
+2. go build
+3. docker-compose up -d
 
 ## 效果
 ![image-20230312211733374](https://cdn.jsdelivr.net/gh/L1aovo/blogpic@main/img/image-20230312211733374.png)
